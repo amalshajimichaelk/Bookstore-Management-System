@@ -108,3 +108,72 @@ XX 17) trackRentalDue(): method used to track books that are due for return.
 
 
 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+A. BOOKS Table Operations 
+
+     CRUD:  
+         Add a new book (validate supplierId exists, price > 0, stockQuantity ≥ 0).  
+         View all books (display in a table/grid).  
+         Search books (by title, author, or supplierId).  
+         Update book details (e.g., price, stockQuantity).  
+         Delete a book (ensure no pending transactions reference it, or handle via cascading delete).
+         
+     Additional:  
+         Reorder books (trigger when stockQuantity drops below a threshold).  
+         Check stock availability for a specific book.
+         
+     
+
+B. CUSTOMERS Table Operations 
+
+     CRUD:  
+         Add a new customer (validate email and contactNumber format).  
+         View all customers.  
+         Search customers (by name or email).  
+         Update customer details (e.g., contactNumber, email).  
+         Delete a customer (ensure no transactions exist for them, or restrict deletion).
+         
+     
+
+C. SUPPLIERS Table Operations 
+
+     CRUD:  
+         Add a new supplier (validate email and contactNumber format).  
+         View all suppliers.  
+         Search suppliers (by name or location).  
+         Update supplier details.  
+         Delete a supplier (restrict if books reference them, or set supplierId to NULL in BOOKS).
+         
+     
+
+D. TRANSACTIONS Table Operations 
+
+     CRUD (with business logic):  
+         Add a transaction:  
+             Select a customer (from CUSTOMERS).  
+             Select a book (from BOOKS), validate stockQuantity ≥ requested quantity.  
+             Auto-calculate totalAmount (using current BOOKS.price).  
+             Deduct quantity from BOOKS.stockQuantity.  
+             Save transaction with default status = "Completed".
+             
+         View all transactions (filter by date, customer, or book).  
+         Update transaction status (e.g., mark as "Cancelled" and restore stock).  
+         Delete a transaction (reverse stock deduction if needed).
+         
+     Reports:  
+         Generate sales summary (e.g., total revenue, top-selling books).  
+         Customer transaction history (filter by customerId).
+         
+     
+
+
+
