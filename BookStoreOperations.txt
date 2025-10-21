@@ -30,11 +30,11 @@
 5) deleteBook(): method used to delete a book entry from our database.
     - enter the bookid or isbn and the book entry is deleted from the table.
 
-6) calculateLoyaltyPoints(): method used for loyal customers, to calculate their points.
+XX 6) calculateLoyaltyPoints(): method used for loyal customers, to calculate their points.
     - depending on their purchases, genre purchased by them we can give them points.
     - we can offer benefits for them depending on their points calculated like discounts for books and sales etc.
 
-7) viewSalesReport(): method used to view information related to sales in the stall.
+XX 7) viewSalesReport(): method used to view information related to sales in the stall.
     - view list of books sold and the details related to them.
     - view sales revenue or profit or total amount of sales for the day.
 
@@ -52,19 +52,19 @@
     - enter date of transaction.
     - store transaction in sales table.
 
-11) returnBook(): method used to mark rented books as returned.
+XX 11) returnBook(): method used to mark rented books as returned.
     - enter rental ID or book ID.
     - update status to 'returned'.
     - calculate late fee if applicable.
     - update inventory count.
 
-12) viewCustomerHistory(): method used to view transaction history of a customer.
+XX 12) viewCustomerHistory(): method used to view transaction history of a customer.
     - enter customer name or ID.
     - view list of books purchased or rented.
     - view total amount spent.
     - view loyalty points earned.
 
-13) applyDiscount(): method used to apply discounts during purchase.
+XX 13) applyDiscount(): method used to apply discounts during purchase.
     - enter discount percentage or fixed amount.
     - apply based on customer loyalty or promotional offer.
     - update final price in transaction.
@@ -86,7 +86,7 @@
     - update existing customer details.
     - delete customer entry if needed.
 
-17) trackRentalDue(): method used to track books that are due for return.
+XX 17) trackRentalDue(): method used to track books that are due for return.
     - view list of rented books with due dates.
     - highlight overdue rentals.
     - notify staff for follow-up.
@@ -105,5 +105,6 @@
     - view available quantity of each book.
     - view books with low stock.
     - view books out of stock.
+
 
 
