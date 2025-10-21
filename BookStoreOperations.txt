@@ -2,6 +2,7 @@
         search by author_name.
         search by title.
         search by isbn.
+        search by publisher_name.
         search by release year.
         search by  keyword.
         *note:using a single text field and 'LIKE' keyword in java we can search book by author,title,isbn or using any keywords.
@@ -15,6 +16,9 @@
         filter by  author.
         filter by type of book(comics,philosophy,religious texts,novels,visual novels,etc)
         filter  by year.
+        filter by publisher.
+         filter by language.
+        
 
 3) addBook(): method used to add a new book entry to our database.
     - accept information such as title, author_name, release year, genre, isbn etc.
@@ -101,4 +105,5 @@
     - view available quantity of each book.
     - view books with low stock.
     - view books out of stock.
+
 
