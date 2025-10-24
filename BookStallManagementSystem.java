@@ -94,7 +94,7 @@ private JPanel createSearchBookPanelWithFilters() {
     JPanel panel = new JPanel(new BorderLayout(10, 10));
     panel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
     
-    // Top search panel
+    
     JPanel topPanel = new JPanel(new FlowLayout(FlowLayout.LEFT, 10, 10));
     topPanel.add(new JLabel("Search by:"));
     
@@ -519,3 +519,4 @@ private void applyFiltersToBackend(Map<String, List<String>> filters, DefaultTab
         });
     }
 }
+
