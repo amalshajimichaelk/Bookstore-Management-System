@@ -1,2 +1,1 @@
-# BookStoreManagement
-A simple Book store management system made using Java
+This is the content from your local commit.
