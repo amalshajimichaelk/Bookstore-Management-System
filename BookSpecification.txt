@@ -1,0 +1,13 @@
+Book id
+Title 
+Description 
+Author
+Publisher
+Price 
+Quantity
+Category(Genere)
+Isbn
+Edition
+Publication Year
+Rating
+Language
