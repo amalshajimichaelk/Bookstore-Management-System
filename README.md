@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <i>An elegant, database-driven desktop application for managing a complete book stall, from inventory to sales.</i>
+  <i>An elegant, database-driven desktop application for managing a complete book store, from inventory to sales.</i>
 </p>
 
 ---
