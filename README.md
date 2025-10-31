@@ -131,7 +131,34 @@ To set up your database, simply execute the full `bookstore_database_setup.sql` 
 
 ---
 
+## 📂 Project Structure
 
-
+```
+Bookstore-Management-System/
+├── .classpath
+├── .project
+├── lib/
+│   └── mysql-connector-j-9.5.0.jar
+├── menu.md
+├── sql/
+│   └── bsms_db.sql
+└── src/
+    └── bookstall/
+        ├── BookStallApp.java
+        ├── controller/
+        │   ├── LoginController.java
+        │   └── MainAppController.java
+        ├── model/
+        │   ├── AuthModel.java
+        │   ├── Book.java
+        │   ├── Customer.java
+        │   ├── DatabaseManager.java
+        │   ├── Supplier.java
+        │   ├── Transaction.java
+        │   └── User.java
+        └── view/
+            ├── LoginPageView.java
+            └── MainAppView.java
+```
                 
 
