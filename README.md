@@ -1,4 +1,4 @@
-# 📖 Book Stall Management System
+# 📖 Book Store Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 11+">
@@ -13,7 +13,7 @@
 
 ---
 
-Welcome to the Book Stall Management System, a comprehensive Java Swing application designed to handle all aspects of a modern bookstore. This project is built with a strict **Model-View-Controller (MVC)** architecture, ensuring a clean separation of concerns, high maintainability, and seamless integration with a MySQL database.
+Welcome to the Book Store Management System, a comprehensive Java Swing application designed to handle all aspects of a modern bookstore. This project is built with a strict **Model-View-Controller (MVC)** architecture, ensuring a clean separation of concerns, high maintainability, and seamless integration with a MySQL database.
 
 ##  Navigation
 
