@@ -15,7 +15,7 @@
 
 Welcome to the Book Store Management System, a comprehensive Java Swing application designed to handle all aspects of a modern bookstore. This project is built with a strict **Model-View-Controller (MVC)** architecture, ensuring a clean separation of concerns, high maintainability, and seamless integration with a MySQL database.
 
-##  Navigation
+# [Navigation](#navigation)
 
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
@@ -27,7 +27,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Secure Authentication:** Login system to protect application data.
 * **Complete Book Management (CRUD):**
@@ -50,7 +50,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
@@ -62,7 +62,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 
 ---
 
-## 🏛️ Architecture
+## Architecture
 
 This project strictly adheres to the **Model-View-Controller (MVC)** design pattern.
 
@@ -74,7 +74,7 @@ This separation makes the application robust, easy to debug, and simple to exten
 
 ---
 
-## 🗄️ Database Setup
+## Database Setup
 
 The entire database schema and sample data are included in a single file.
 
@@ -91,7 +91,7 @@ To set up your database, simply execute the full `bookstore_database_setup.sql` 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -131,10 +131,10 @@ To set up your database, simply execute the full `bookstore_database_setup.sql` 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-Bookstore-Management-System/
+Book-Store-Management-System/
 ├── .classpath
 ├── .project
 ├── lib/
@@ -161,4 +161,33 @@ Bookstore-Management-System/
             └── MainAppView.java
 ```
                 
+---
 
+## Screenshots
+
+
+| Login Screen | Home Dashboard |
+| :---: | :---: |
+| <img width="734" height="369" alt="Screenshot 2025-11-01 002211" src="https://github.com/user-attachments/assets/30773922-f0e7-4c73-99e6-e6d7b5d3307d" /> | <img width="1298" height="959" alt="Screenshot 2025-11-01 002540" src="https://github.com/user-attachments/assets/53e25189-059c-4bfb-9d0d-9e32d896fb6d" />|
+
+| Search & Filter Panel | Update Book Panel |
+| :---: | :---: |
+| <img width="1295" height="960" alt="Screenshot 2025-11-01 002716" src="https://github.com/user-attachments/assets/b86dd88d-0720-43f8-8917-3109229cefa9" /> | <img width="1298" height="962" alt="Screenshot 2025-11-01 003223" src="https://github.com/user-attachments/assets/31260ded-f2f3-46fd-8ac3-edfc51ab9629" />|
+
+| Checkout Panel | Transaction History |
+| :---: | :---: |
+| <img width="1298" height="955" alt="Screenshot 2025-11-01 003927" src="https://github.com/user-attachments/assets/1b76adbc-2c66-4bf2-bd59-6118e654c8ec" />| <img width="1300" height="962" alt="Screenshot 2025-11-01 003416" src="https://github.com/user-attachments/assets/143decad-d377-48ed-88ca-9a241fd1782d" />|
+
+| Customer Info | Supplier Info  |
+| :---: | :---: |
+| <img width="1292" height="952" alt="Screenshot 2025-11-01 003459" src="https://github.com/user-attachments/assets/de5506b8-4cda-47b6-8672-22424c02573b" /> | <img width="1301" height="960" alt="Screenshot 2025-11-01 003716" src="https://github.com/user-attachments/assets/d7347e0f-c8c4-4a30-9f6b-b715ef1644e4" /> |
+
+
+## 👨‍💻 Team Members
+
+| Member | GitHub | Role |
+| :---: | :---: | :---: |
+| Amal Shaji Michael | <a href="https://github.com/amalshajimichaelk">@amalshajimichaelk</a> | Full Stack Developer & Documentation |
+| Dawn K Vinod | <a href="https://github.com/Dawn-K-Vinod">@Dawn-K-Vinod</a> | Team Lead & Tester |
+| Noel Shaji | <a href="https://github.com/NoelShaji001">@NoelShaji001</a> | UI Designer |
+| Harisankar C R | <a href="https://github.com/Ha4i606">@Ha4i606</a> | Database Designer |
