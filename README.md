@@ -27,7 +27,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 
 ---
 
-## Key Features
+## [✨](#--gifs-for-readme--)Key Features
 
 * **Secure Authentication:** Login system to protect application data.
 * **Complete Book Management (CRUD):**
@@ -49,6 +49,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
     * **Transaction History:** View a detailed log of all sales.
 
 ---
+
 
 ## Tech Stack
 
