@@ -140,7 +140,6 @@ Book-Store-Management-System/
 ├── .project
 ├── lib/
 │   └── mysql-connector-j-9.5.0.jar
-├── menu.md
 ├── sql/
 │   └── bsms_db.sql
 └── src/
