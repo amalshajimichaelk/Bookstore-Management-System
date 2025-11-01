@@ -15,19 +15,19 @@
 
 Welcome to the Book Store Management System, a comprehensive Java Swing application designed to handle all aspects of a modern bookstore. This project is built with a strict **Model-View-Controller (MVC)** architecture, ensuring a clean separation of concerns, high maintainability, and seamless integration with a MySQL database.
 
-# [Navigation](#navigation)
+## 🧭 Navigation
 
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Database Setup](#database-setup)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🏛️ Architecture](#-architecture)
+- [🗄️ Database Setup](#-database-setup)
+- [🚀 How to Run](#-how-to-run)
+- [📂 Project Structure](#-project-structure)
+- [📸 Screenshots](#-screenshots)
 
 ---
 
-## [✨](#--gifs-for-readme--)Key Features
+## ✨ Key Features
 
 * **Secure Authentication:** Login system to protect application data.
 * **Complete Book Management (CRUD):**
@@ -51,7 +51,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 ---
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
@@ -63,7 +63,7 @@ Welcome to the Book Store Management System, a comprehensive Java Swing applicat
 
 ---
 
-## Architecture
+## 🏛️ Architecture
 
 This project strictly adheres to the **Model-View-Controller (MVC)** design pattern.
 
@@ -75,7 +75,7 @@ This separation makes the application robust, easy to debug, and simple to exten
 
 ---
 
-## Database Setup
+## 🗄️ Database Setup
 
 The entire database schema and sample data are included in a single file.
 
@@ -92,7 +92,7 @@ To set up your database, simply execute the full `bookstore_database_setup.sql` 
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 ### Prerequisites
 
@@ -132,7 +132,7 @@ To set up your database, simply execute the full `bookstore_database_setup.sql` 
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 Book-Store-Management-System/
@@ -163,7 +163,7 @@ Book-Store-Management-System/
                 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 
 | Login Screen | Home Dashboard |
