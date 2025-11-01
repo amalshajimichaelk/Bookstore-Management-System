@@ -178,7 +178,7 @@ Book-Store-Management-System/
 
 | Member | GitHub | Role |
 | :---: | :---: | :---: |
-| Amal Shaji Michael | <a href="https://github.com/amalshajimichaelk" target = "_blank" >@amalshajimichaelk</a> | Full Stack Developer & Documentation |
-| Dawn K Vinod | <a href="https://github.com/Dawn-K-Vinod" target = "_blank" >@Dawn-K-Vinod</a> | Team Lead & Tester |
-| Noel Shaji | <a href="https://github.com/NoelShaji001" target = "_blank" >@NoelShaji001</a> | UI Designer |
-| Harisankar C R | <a href="https://github.com/Ha4i606" target = "_blank" >@Ha4i606</a> | Database Designer |
+| Amal Shaji Michael | <a href="https://github.com/amalshajimichaelk" target = "blank" >@amalshajimichaelk</a> | Full Stack Developer & Documentation |
+| Dawn K Vinod | <a href="https://github.com/Dawn-K-Vinod" target = "blank" >@Dawn-K-Vinod</a> | Team Lead & Tester |
+| Noel Shaji | <a href="https://github.com/NoelShaji001" target = "blank" >@NoelShaji001</a> | UI Designer |
+| Harisankar C R | <a href="https://github.com/Ha4i606" target = "blank" >@Ha4i606</a> | Database Designer |
