@@ -15,15 +15,6 @@
 
 Welcome to the Book Store Management System, a comprehensive Java Swing application designed to handle all aspects of a modern bookstore. This project is built with a strict **Model-View-Controller (MVC)** architecture, ensuring a clean separation of concerns, high maintainability, and seamless integration with a MySQL database.
 
-## 🧭 Navigation
-
-- [✨ Key Features](#-key-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🏛️ Architecture](#-architecture)
-- [🗄️ Database Setup](#-database-setup)
-- [🚀 How to Run](#-how-to-run)
-- [📂 Project Structure](#-project-structure)
-- [📸 Screenshots](#-screenshots)
 
 ---
 
